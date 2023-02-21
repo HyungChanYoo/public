@@ -101,4 +101,5 @@ HKEY_LOCAL_MACHINE과 HKEY_CURRENT_USER 노드는 서로 비슷한 구조를 가
 * HKEY_PERFORMANCE_DATA: 런타임 성능 데이트 정보를 제공. 이 키는 레지스트리 편집기에 보이지 않지만 윈도우 API의 레지스트리 명령어를 통해 볼 수 있음.
 * HKEY_DYN_DATA: 이 키는 윈도우 95, 윈도우 98, 윈도우 Me에만 쓰임. 플러그 앤 플레이를 비롯한 하드웨어 장치, 네트워크 성능 통계에 대한 정보를 포함. 이 하이브의 정보는 하드 드라이브에 저장되지 않는다. 플러그 앤 플레이 정보는 컴퓨터가 시작할 때 구성되면 메모리에 저장됨.
 
-위키백과/나무위키
+위키백과, 2023-02-11 14:05:00, https://ko.wikipedia.org/wiki/%EC%9C%88%EB%8F%84%EC%9A%B0_%EB%A0%88%EC%A7%80%EC%8A%A4%ED%8A%B8%EB%A6%AC
+나무위키, 2023-02-10 13:59:44, https://namu.wiki/w/%EB%A0%88%EC%A7%80%EC%8A%A4%ED%8A%B8%EB%A6%AC
